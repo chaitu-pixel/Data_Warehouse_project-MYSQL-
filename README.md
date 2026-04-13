@@ -129,9 +129,9 @@ data-warehouse-project/
 
 ## 👤 Author
 
-**Uday**  
+**Chaitanya**  
 Aspiring Data Analyst  
-📧 udaybontha1998@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/udaybontha)
+📧 chaitubourothu@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/chaitanyabourothu)
 
 ---
